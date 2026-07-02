@@ -1,0 +1,9 @@
+
+[package]
+name = "rust_ocr_ocrs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0"
+kreuzberg-paddle-ocr = "4.9.9"
